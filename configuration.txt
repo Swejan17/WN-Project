@@ -1,0 +1,14 @@
+##################### CONFIG STEPS #######################
+
+0. Network design and beautification
+1. Basic settings to all devices plus ssh on the router
+2. VLANs assigment plus all access and trunk ports on the switches 
+3. Subnetting and Ip address assignment
+4. Static IP address to serverROOM devices
+5. DHCP server device configuration
+6. Configure DHCP for voice
+7. Inter-VLAN routing on the Routers plus ip dhcp helper addersses
+8. OSPF on the routers.
+9. Configure VoIp configuration in all routers.
+10. Dial peering configuration in all routers.
+11. Verifiging and testing configuration.
